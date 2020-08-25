@@ -1,3 +1,3 @@
 # gui_translator
 
-Tech Stack: Python || Tkinter || 
+Tech Stack: Python || Tkinter || Googletrans ||
